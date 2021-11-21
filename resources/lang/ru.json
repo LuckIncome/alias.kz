@@ -1,0 +1,53 @@
+{
+    "Social networks": "Социальные сети",
+    "Settings for displayed links on the main page": "Настройки отображаемых ссылок на главной странице",
+
+    "Category": "Категории",
+    "Category List": "Список категории",
+
+    "Subcategory": "Субкатегории",
+    "Subcategory List": "Список субкатегории",
+
+    "Products": "Товары",
+    "Products List": "Список товаров",
+
+    "Create a new product": "Создать новый товар",
+    "Edit product": "Редактировать товар",
+    "Products displayed on the home page": "Отображаемые товары на главной странице",
+
+    "Reviews": "Отзывы",
+    "Reviews List": "Список отзывов",
+
+    "News": "Новости",
+    "News List": "Список новостей",
+
+    "Promotion": "Акции",
+    "Promotion List": "Список акции",
+
+    "Certificates": "Сертификаты",
+    "Certificates List": "Список cертификатов",
+
+    "Contacts": "Контакты",
+    "Contacts List": "Список контактов",
+
+    "Contacts Phone": "Номер телефона контактов",
+    "Contacts Phone List": "Список номер телефона контактов",
+
+    "Contacts Email": "Почта контактов",
+    "Contacts Email List": "Список почты контактов",
+
+    "Contacts Address": "Адрес контактов",
+    "Contacts Address List": "Список адресов контактов",
+
+    "Header": "Верхний колонтитул",
+    "Headers Element List": "Элементы верхнего колонтитул",
+
+    "Footer": "Нижний колонтитул",
+    "Footers Element List": "Элементы нижнего колонтитул",
+
+    "Application": "Заявки",
+    "Application List": "Список заявок",
+
+    "SEO": "SEO",
+    "SEO List": "Список SEO"
+}
